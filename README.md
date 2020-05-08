@@ -40,13 +40,23 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+    I learned Express is a restful web service that works with JSON and its a framework for Node.JS
+
 - [ ] Describe Middleware?
+
+    Middleware is a basically a function you create that you can pass to, for example, CRUD opperations and make it simpler more efficient code
 
 - [ ] Describe a Resource?
 
+    In a server and is accessed through an API
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+    200 status with a message
+
 - [ ] How can we partition our application into sub-applications?
+
+    Using routers we seperate in the base URL
 
 ## Minimum Viable Product
 
